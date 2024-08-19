@@ -2,7 +2,7 @@
 ---------------------
 
 
-**Easy to Use & Test Different Chess Scenarios**
+<h2>Easy to Use & Test Different Chess Scenarios</h2>
 
 ## Steps to Use:
 
