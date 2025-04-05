@@ -31,4 +31,4 @@
 
 📊 Output / Results
 
-<p align="center"> <img src="ss.png" alt="AI Chess Engine Screenshot" width="600"/> </p>
+<p align="center"> <img src="ss.png" alt="AI Chess Engine Screenshot" width="400"/> </p>
